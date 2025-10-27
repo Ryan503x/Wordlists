@@ -13,6 +13,5 @@
 
 ## كيفية الاستخدام
 ```bash
-# مثال لتشغيل الأداة وحفظ النتيجة في ملف
 python generate.py
 python generate.py -o Helpdesk_common.txt
