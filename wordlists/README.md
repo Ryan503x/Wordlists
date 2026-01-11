@@ -13,5 +13,5 @@
 
 ## كيفية الاستخدام
 ```bash
-python generate.py
-python generate.py -o Helpdesk_common.txt
+python generate_wordlist.py -o Helpdesk_common.csv
+python generate_wordlist.py -o Helpdesk_common.txt
